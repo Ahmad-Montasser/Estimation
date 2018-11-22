@@ -1,0 +1,40 @@
+c:\users\ahmad\documents\visual studio 2015\Projects\EstimationClient\EstimationClient\bin\Debug\EstimationClient.exe.config
+c:\users\ahmad\documents\visual studio 2015\Projects\EstimationClient\EstimationClient\obj\Debug\EstimationClient.csprojResolveAssemblyReference.cache
+c:\users\ahmad\documents\visual studio 2015\Projects\EstimationClient\EstimationClient\obj\Debug\EstimationClient.GameForm.resources
+c:\users\ahmad\documents\visual studio 2015\Projects\EstimationClient\EstimationClient\obj\Debug\EstimationClient.csproj.GenerateResource.Cache
+c:\users\ahmad\documents\visual studio 2015\Projects\EstimationClient\EstimationClient\bin\Debug\EstimationClient.exe
+c:\users\ahmad\documents\visual studio 2015\Projects\EstimationClient\EstimationClient\bin\Debug\EstimationClient.pdb
+c:\users\ahmad\documents\visual studio 2015\Projects\EstimationClient\EstimationClient\bin\Debug\EstimationLib.dll
+c:\users\ahmad\documents\visual studio 2015\Projects\EstimationClient\EstimationClient\bin\Debug\EstimationLib.pdb
+c:\users\ahmad\documents\visual studio 2015\Projects\EstimationClient\EstimationClient\obj\Debug\EstimationClient.Properties.Resources.resources
+c:\users\ahmad\documents\visual studio 2015\Projects\EstimationClient\EstimationClient\obj\Debug\EstimationClient.exe
+c:\users\ahmad\documents\visual studio 2015\Projects\EstimationClient\EstimationClient\obj\Debug\EstimationClient.pdb
+C:\Users\Ahmad\Documents\Visual Studio 2015\Projects\Estimation\EstimationClient\EstimationClient\bin\Debug\EstimationClient.exe.config
+C:\Users\Ahmad\Documents\Visual Studio 2015\Projects\Estimation\EstimationClient\EstimationClient\obj\Debug\EstimationClient.exe
+C:\Users\Ahmad\Documents\Visual Studio 2015\Projects\Estimation\EstimationClient\EstimationClient\obj\Debug\EstimationClient.pdb
+C:\Users\Ahmad\Documents\Visual Studio 2015\Projects\Estimation\EstimationClient\EstimationClient\bin\Debug\EstimationClient.exe
+C:\Users\Ahmad\Documents\Visual Studio 2015\Projects\Estimation\EstimationClient\EstimationClient\bin\Debug\EstimationClient.pdb
+C:\Users\Ahmad\Documents\Visual Studio 2015\Projects\Estimation\EstimationClient\EstimationClient\bin\Debug\EstimationLib.dll
+C:\Users\Ahmad\Documents\Visual Studio 2015\Projects\Estimation\EstimationClient\EstimationClient\bin\Debug\EstimationLib.pdb
+C:\Users\Ahmad\Documents\Visual Studio 2015\Projects\Estimation\EstimationClient\EstimationClient\obj\Debug\EstimationClient.csprojResolveAssemblyReference.cache
+C:\Users\Ahmad\Documents\Visual Studio 2015\Projects\Estimation\EstimationClient\EstimationClient\obj\Debug\EstimationClient.GameForm.resources
+C:\Users\Ahmad\Documents\Visual Studio 2015\Projects\Estimation\EstimationClient\EstimationClient\obj\Debug\EstimationClient.Properties.Resources.resources
+C:\Users\Ahmad\Documents\Visual Studio 2015\Projects\Estimation\EstimationClient\EstimationClient\obj\Debug\EstimationClient.csproj.GenerateResource.Cache
+C:\Users\Ahmad\documents\visual studio 2015\Projects\EstimationClient\EstimationClient\obj\Debug\EstimationClient.CallForm.resources
+F:\college\Summer Training 2018 C#\Estimation\EstimationClient\EstimationClient\bin\Debug\EstimationClient.exe.config
+F:\college\Summer Training 2018 C#\Estimation\EstimationClient\EstimationClient\bin\Debug\EstimationClient.exe
+F:\college\Summer Training 2018 C#\Estimation\EstimationClient\EstimationClient\bin\Debug\EstimationClient.pdb
+F:\college\Summer Training 2018 C#\Estimation\EstimationClient\EstimationClient\bin\Debug\EstimationLib.dll
+F:\college\Summer Training 2018 C#\Estimation\EstimationClient\EstimationClient\bin\Debug\EstimationLib.pdb
+F:\college\Summer Training 2018 C#\Estimation\EstimationClient\EstimationClient\obj\Debug\EstimationClient.csprojResolveAssemblyReference.cache
+F:\college\Summer Training 2018 C#\Estimation\EstimationClient\EstimationClient\obj\Debug\EstimationClient.CallForm.resources
+F:\college\Summer Training 2018 C#\Estimation\EstimationClient\EstimationClient\obj\Debug\EstimationClient.GameForm.resources
+F:\college\Summer Training 2018 C#\Estimation\EstimationClient\EstimationClient\obj\Debug\EstimationClient.Properties.Resources.resources
+F:\college\Summer Training 2018 C#\Estimation\EstimationClient\EstimationClient\obj\Debug\EstimationClient.csproj.GenerateResource.Cache
+F:\college\Summer Training 2018 C#\Estimation\EstimationClient\EstimationClient\obj\Debug\EstimationClient.csproj.CoreCompileInputs.cache
+F:\college\Summer Training 2018 C#\Estimation\EstimationClient\EstimationClient\obj\Debug\EstimationClient.exe
+F:\college\Summer Training 2018 C#\Estimation\EstimationClient\EstimationClient\obj\Debug\EstimationClient.pdb
+F:\college\Summer Training 2018 C#\Estimation\EstimationClient\EstimationClient\obj\Debug\EstimationClient.ConnectForm.resources
+E:\ASU\Semester 4\C#\Project\EstimationClient\EstimationClient\bin\Debug\EstimationClient.exe.config
+E:\ASU\Semester 4\C#\Project\EstimationClient\EstimationClient\obj\Debug\EstimationClient.exe
+E:\ASU\Semester 4\C#\Project\EstimationClient\EstimationClient\obj\Debug\EstimationClient.pdb

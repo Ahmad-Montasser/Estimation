@@ -1,0 +1,11 @@
+c:\users\ahmad\documents\visual studio 2015\Projects\EstimationLib\EstimationLib\obj\Debug\EstimationLib.csprojResolveAssemblyReference.cache
+c:\users\ahmad\documents\visual studio 2015\Projects\EstimationLib\EstimationLib\bin\Debug\EstimationLib.dll
+c:\users\ahmad\documents\visual studio 2015\Projects\EstimationLib\EstimationLib\bin\Debug\EstimationLib.pdb
+c:\users\ahmad\documents\visual studio 2015\Projects\EstimationLib\EstimationLib\obj\Debug\EstimationLib.dll
+c:\users\ahmad\documents\visual studio 2015\Projects\EstimationLib\EstimationLib\obj\Debug\EstimationLib.pdb
+F:\college\Summer Training 2018 C#\Estimation\EstimationLib\EstimationLib\bin\Debug\EstimationLib.dll
+F:\college\Summer Training 2018 C#\Estimation\EstimationLib\EstimationLib\bin\Debug\EstimationLib.pdb
+F:\college\Summer Training 2018 C#\Estimation\EstimationLib\EstimationLib\obj\Debug\EstimationLib.csproj.CoreCompileInputs.cache
+F:\college\Summer Training 2018 C#\Estimation\EstimationLib\EstimationLib\obj\Debug\EstimationLib.dll
+F:\college\Summer Training 2018 C#\Estimation\EstimationLib\EstimationLib\obj\Debug\EstimationLib.pdb
+F:\college\Summer Training 2018 C#\Estimation\EstimationLib\EstimationLib\obj\Debug\EstimationLib.csprojResolveAssemblyReference.cache

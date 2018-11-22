@@ -1,0 +1,26 @@
+c:\users\ahmad\documents\visual studio 2015\Projects\ServerEstimation\ServerEstimation\bin\Debug\ServerEstimation.exe.config
+c:\users\ahmad\documents\visual studio 2015\Projects\ServerEstimation\ServerEstimation\bin\Debug\ServerEstimation.exe
+c:\users\ahmad\documents\visual studio 2015\Projects\ServerEstimation\ServerEstimation\bin\Debug\ServerEstimation.pdb
+c:\users\ahmad\documents\visual studio 2015\Projects\ServerEstimation\ServerEstimation\bin\Debug\EstimationLib.dll
+c:\users\ahmad\documents\visual studio 2015\Projects\ServerEstimation\ServerEstimation\bin\Debug\EstimationLib.pdb
+c:\users\ahmad\documents\visual studio 2015\Projects\ServerEstimation\ServerEstimation\obj\Debug\ServerEstimation.csprojResolveAssemblyReference.cache
+c:\users\ahmad\documents\visual studio 2015\Projects\ServerEstimation\ServerEstimation\obj\Debug\ServerEstimation.exe
+c:\users\ahmad\documents\visual studio 2015\Projects\ServerEstimation\ServerEstimation\obj\Debug\ServerEstimation.pdb
+F:\college\Summer Training 2018 C#\Estimation\ServerEstimation\ServerEstimation\bin\Debug\ServerEstimation.exe
+F:\college\Summer Training 2018 C#\Estimation\ServerEstimation\ServerEstimation\bin\Debug\EstimationLib.dll
+C:\Users\Ahmad\Documents\Visual Studio 2015\Projects\Estimation\ServerEstimation\ServerEstimation\bin\Debug\ServerEstimation.exe.config
+C:\Users\Ahmad\Documents\Visual Studio 2015\Projects\Estimation\ServerEstimation\ServerEstimation\obj\Debug\ServerEstimation.exe
+C:\Users\Ahmad\Documents\Visual Studio 2015\Projects\Estimation\ServerEstimation\ServerEstimation\obj\Debug\ServerEstimation.pdb
+C:\Users\Ahmad\Documents\Visual Studio 2015\Projects\Estimation\ServerEstimation\ServerEstimation\bin\Debug\ServerEstimation.exe
+C:\Users\Ahmad\Documents\Visual Studio 2015\Projects\Estimation\ServerEstimation\ServerEstimation\bin\Debug\ServerEstimation.pdb
+C:\Users\Ahmad\Documents\Visual Studio 2015\Projects\Estimation\ServerEstimation\ServerEstimation\bin\Debug\EstimationLib.dll
+C:\Users\Ahmad\Documents\Visual Studio 2015\Projects\Estimation\ServerEstimation\ServerEstimation\bin\Debug\EstimationLib.pdb
+F:\college\Summer Training 2018 C#\Estimation\ServerEstimation\ServerEstimation\bin\Debug\ServerEstimation.exe.config
+F:\college\Summer Training 2018 C#\Estimation\ServerEstimation\ServerEstimation\bin\Debug\EstimationLib.pdb
+F:\college\Summer Training 2018 C#\Estimation\ServerEstimation\ServerEstimation\obj\Debug\ServerEstimation.csprojResolveAssemblyReference.cache
+F:\college\Summer Training 2018 C#\Estimation\ServerEstimation\ServerEstimation\obj\Debug\ServerEstimation.csproj.CoreCompileInputs.cache
+F:\college\Summer Training 2018 C#\Estimation\ServerEstimation\ServerEstimation\obj\Debug\ServerEstimation.exe
+F:\college\Summer Training 2018 C#\Estimation\ServerEstimation\ServerEstimation\obj\Debug\ServerEstimation.pdb
+F:\college\Summer Training 2018 C#\Estimation\ServerEstimation\ServerEstimation\bin\Debug\ServerEstimation.pdb
+F:\college\Summer Training 2018 C#\Estimation\ServerEstimation\ServerEstimation\obj\Debug\ServerEstimation.ConnectForm.resources
+F:\college\Summer Training 2018 C#\Estimation\ServerEstimation\ServerEstimation\obj\Debug\ServerEstimation.csproj.GenerateResource.Cache
