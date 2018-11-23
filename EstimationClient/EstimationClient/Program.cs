@@ -13,7 +13,7 @@ namespace EstimationClient
     class Program
     {
         static GameForm gf;
-
+        static int P;
         static void Main(string[] args)
         {
             ConnectForm connectForm = new ConnectForm();
